@@ -4,6 +4,19 @@ Note: this changelog is for the shields.io server. The changelog for the badge-m
 
 ---
 
+## server-2022-01-01
+
+- [Accurics] create workflow file
+- feat: deprecate dependabot badges [#7274](https://github.com/badges/shields/issues/7274)
+- Remove requestOptions2GotOptions compatibility layer [#7270](https://github.com/badges/shields/issues/7270)
+- fix: spigetdownloadsize service test [#7273](https://github.com/badges/shields/issues/7273)
+- upgrade to node 16 [#7271](https://github.com/badges/shields/issues/7271)
+- fix: npmversion tagged service test [#7269](https://github.com/badges/shields/issues/7269)
+- migrate request --> got in [github] auth acceptor [#7248](https://github.com/badges/shields/issues/7248)
+- remove request from legacy request handler [#7233](https://github.com/badges/shields/issues/7233)
+- feat: create new Test Results category [#7218](https://github.com/badges/shields/issues/7218)
+- Dependency updates
+
 ## server-2021-11-04
 
 - migrate regularUpdate() from request-->got [#7215](https://github.com/badges/shields/issues/7215)
