@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/4bea8d2b-a6ac-4280-89bd-6aa8a9e9b42a.svg?orgId=757341787363)](https://app.soluble.cloud/repos/details/github.com/mikscust/shields?orgId=757341787363)  
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
         height="130">
 </p>
